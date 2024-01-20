@@ -1,5 +1,6 @@
 # client-go-controller
 
+Simple client-go that watches networkpolicies and logs a message on add/delete/update.
 
 ## Create a kind cluster
 
